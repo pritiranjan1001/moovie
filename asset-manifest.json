@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/moovie/static/css/main.9f55e695.chunk.css",
+    "main.js": "/moovie/static/js/main.14c94aab.chunk.js",
+    "main.js.map": "/moovie/static/js/main.14c94aab.chunk.js.map",
+    "runtime-main.js": "/moovie/static/js/runtime-main.79d2bc8f.js",
+    "runtime-main.js.map": "/moovie/static/js/runtime-main.79d2bc8f.js.map",
+    "static/css/2.25dc03cb.chunk.css": "/moovie/static/css/2.25dc03cb.chunk.css",
+    "static/js/2.33cf1f1f.chunk.js": "/moovie/static/js/2.33cf1f1f.chunk.js",
+    "static/js/2.33cf1f1f.chunk.js.map": "/moovie/static/js/2.33cf1f1f.chunk.js.map",
+    "index.html": "/moovie/index.html",
+    "static/css/2.25dc03cb.chunk.css.map": "/moovie/static/css/2.25dc03cb.chunk.css.map",
+    "static/css/main.9f55e695.chunk.css.map": "/moovie/static/css/main.9f55e695.chunk.css.map",
+    "static/js/2.33cf1f1f.chunk.js.LICENSE.txt": "/moovie/static/js/2.33cf1f1f.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/moovie/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/moovie/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.4ee1ed66.png": "/moovie/static/media/tmovie.4ee1ed66.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79d2bc8f.js",
+    "static/css/2.25dc03cb.chunk.css",
+    "static/js/2.33cf1f1f.chunk.js",
+    "static/css/main.9f55e695.chunk.css",
+    "static/js/main.14c94aab.chunk.js"
+  ]
+}
